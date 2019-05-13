@@ -1,0 +1,43 @@
+{
+  "name": "rc-size-sensor",
+  "version": "0.1.0",
+  "description": "React component for size-sensor to monitor dom size.",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "build": "rimraf lib && tsc"
+  },
+  "dependencies": {
+    "size-sensor": "^0.2.4"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.17",
+    "@types/react-dom": "^16.8.4",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "rimraf": "^2.6.3",
+    "typescript": "^3.4.5"
+  },
+  "peerDependencies": {
+    "react": "^0.13.0 || ^0.14.0 || ^15.0.0 || ^16.0.0",
+    "react-dom": "^0.13.0 || ^0.14.0 || ^15.0.0 || ^16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hustcc/rc-size-sensor.git"
+  },
+  "keywords": [
+    "size-sensor",
+    "react",
+    "react-component"
+  ],
+  "author": "hustcc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hustcc/rc-size-sensor/issues"
+  },
+  "homepage": "https://github.com/hustcc/rc-size-sensor#readme"
+}

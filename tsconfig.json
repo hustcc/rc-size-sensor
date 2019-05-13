@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es3",
+    "sourceMap": true,
+    "lib": ["esnext","dom"],
+    "outDir": "lib",
+    "declaration": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
