@@ -23,4 +23,8 @@ export default class SizeSensor extends PureComponent<SizeSensorProps> {
   componentWillUnmount() {
     clear(ReactDOM.findDOMNode(this) as HTMLElement);
   }
+
+  render(): any {
+    return this.props.children;
+  }
 }

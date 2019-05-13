@@ -1,6 +1,6 @@
 {
   "name": "rc-size-sensor",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "React component for size-sensor to monitor dom size.",
   "main": "lib/index.js",
   "directories": {
