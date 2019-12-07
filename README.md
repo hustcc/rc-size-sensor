@@ -3,11 +3,16 @@
 > React component for [size-sensor](https://github.com/hustcc/size-sensor).
 
 
+[![Build Status](https://github.com/hustcc/rc-size-sensor/workflows/build/badge.svg)](https://github.com/hustcc/rc-size-sensor/actions)
+[![npm](https://img.shields.io/npm/v/rc-size-sensor.svg)](https://www.npmjs.com/package/rc-size-sensor)
+[![npm](https://img.shields.io/npm/dm/rc-size-sensor.svg)](https://www.npmjs.com/package/rc-size-sensor)
+
 
 ## Install
 
-> npm i --save rc-size-sensor
-
+```bash
+$ npm i --save rc-size-sensor
+```
 
 
 ## Usage
